@@ -1,5 +1,6 @@
 An Example below when ip address 1.1.1.1 is provided,
 
+```python
 Enter an IP address: 1.1.1.1
 IP Address: 1.1.1.1
 Host Name: one.one.one.one
@@ -19,3 +20,4 @@ Hosting: Unknown
 Address: 1.1.1.1
 Google Maps Link: https://www.google.com/maps/search/?api=1&query=-33.4940,143.2104
 
+```
