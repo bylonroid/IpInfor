@@ -2,7 +2,7 @@
 ## Simple python based simple information gathering script which'll provide some good amount of data about a specified IP Address.
 
 ---------------------------------------------------------------
-An Demo result below when ip address 1.1.1.1 is provided,
+#### A Demo result below when ip address 1.1.1.1 is provided,
 
 ```python
 
@@ -25,5 +25,13 @@ Address: 1.1.1.1
 Google Maps Link: https://www.google.com/maps/search/?api=1&query=-33.4940,143.2104
 
 ```
----------------------------------------------------------------------------------------
+
+
+#### Installation
+```
+git clone https://github.com/bylonroid/ipinfor.git
+ls [check it if u want, or skip it]
+cd ipinfor
+python ipinfor.py
+[and provide the ip address u want]
 
