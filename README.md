@@ -1,5 +1,5 @@
 # IpInfor
-
+## Simple python based simple information gathering script which'll provide some good amount of data about a specified IP Address.
 
 
 An Example below when ip address 1.1.1.1 is provided,
