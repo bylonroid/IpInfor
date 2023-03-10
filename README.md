@@ -26,12 +26,45 @@ Google Maps Link: https://www.google.com/maps/search/?api=1&query=-33.4940,143.2
 
 ```
 
+#### Supported Devices
+```
+Checked on Linux and Termux(android)
+and yes windows
+
+```
+
+#### Gathered Infos
+```java
+Host Name
+City
+Region
+Country
+Postal Code
+Latitude
+Longitude
+Timezone
+Organization
+ASN
+Carrier
+Mobile
+Proxy
+Hosting
+Address
+Google Maps Link
+
+
+```
 
 #### Installation
 ```
 git clone https://github.com/bylonroid/ipinfor.git
+
 ls [check it if u want, or skip it]
+
 cd ipinfor
+
 python ipinfor.py
+
 [and provide the ip address u want]
 
+```
