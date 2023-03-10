@@ -1,11 +1,11 @@
 # IpInfor
 ## Simple python based simple information gathering script which'll provide some good amount of data about a specified IP Address.
 
-
-An Example below when ip address 1.1.1.1 is provided,
+---------------------------------------------------------------
+An Demo result below when ip address 1.1.1.1 is provided,
 
 ```python
-Enter an IP address: 1.1.1.1
+
 IP Address: 1.1.1.1
 Host Name: one.one.one.one
 City: Unknown
@@ -25,3 +25,5 @@ Address: 1.1.1.1
 Google Maps Link: https://www.google.com/maps/search/?api=1&query=-33.4940,143.2104
 
 ```
+---------------------------------------------------------------------------------------
+
