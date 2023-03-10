@@ -56,7 +56,8 @@ Google Maps Link
 ```
 
 #### Installation
-```shell
+```python
+
 git clone https://github.com/bylonroid/ipinfor.git
 
 ls [check it if u want, or skip it]
