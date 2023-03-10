@@ -34,7 +34,7 @@ and yes windows
 ```
 
 #### Gathered Infos
-```java
+```python
 Host Name
 City
 Region
@@ -56,7 +56,7 @@ Google Maps Link
 ```
 
 #### Installation
-```python
+```bash
 
 git clone https://github.com/bylonroid/ipinfor.git
 
